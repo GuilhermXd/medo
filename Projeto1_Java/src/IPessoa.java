@@ -1,0 +1,3 @@
+interface IPessoa {
+    void exibir();
+}
